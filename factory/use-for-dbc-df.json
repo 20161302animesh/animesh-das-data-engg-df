@@ -1,0 +1,15 @@
+{
+	"name": "use-for-dbc-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "963ded12-a106-4c94-888a-b76a94ae6ce9",
+		"tenantId": "cc5b5708-5300-49b8-a2ea-b2a5cfde2856"
+	}
+}
